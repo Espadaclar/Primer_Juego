@@ -5,8 +5,6 @@
  */
 public class Enunciado
 {
-
-
     /**
      * Constructor for objects of class Enunciado
      */
